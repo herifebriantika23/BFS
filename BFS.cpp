@@ -9,7 +9,7 @@ map<string, string*> nama_var;
 
 string nama= "Saya";
 string reseller = "Paijo";
-string nama_pertama="Heri";
+string nama_pertama="Her";
 
 void display_nama(string nama){
 //
